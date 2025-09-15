@@ -35,6 +35,34 @@ header p {
     font-size: 1.2rem;
 }
 
+/* Header with logo */
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.site-logo {
+    width: 56px;
+    height: 56px;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    background: rgba(255,255,255,0.2);
+}
+
+.site-title-group h1 {
+    margin-bottom: 6px;
+}
+
+@media (min-width: 768px) {
+    .site-logo {
+        width: 72px;
+        height: 72px;
+    }
+}
+
 /* Main content */
 main {
     max-width: 800px;
