@@ -1,0 +1,15 @@
+# Tên trang web
+title: Trần Ngọc Hùng
+
+# Mô tả ngắn
+description: Trang cá nhân của Trần Ngọc Hùng trên GitHub Pages
+
+# URL trang (thường để trống cho GitHub Pages)
+url: ""
+
+# Theme Jekyll có sẵn
+theme: minima
+
+# Người viết trang
+author:
+  name: Trần Ngọc Hùng
