@@ -34,7 +34,7 @@ GitHub Pages là dịch vụ hosting miễn phí của GitHub, cho phép bạn h
 # Tên repository: username.github.io
 ```
 
-### Bước 2: Cấu trúc thư mục
+### Bước 2: Cấu trúc thư mục dự án
 ```
 blog/
 ├── _config.yml
