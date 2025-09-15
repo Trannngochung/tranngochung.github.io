@@ -15,6 +15,7 @@
                 <h1>{{ page.title }}</h1>
                 <p>Trang cá nhân của mình</p>
             </div>
+            <img class="site-logo" src="{{ site.logo | relative_url }}" alt="{{ site.title | default: 'Logo' }}">
         </div>
         {% else %}
         <h1>{{ page.title }}</h1>
