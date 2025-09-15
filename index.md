@@ -5,7 +5,7 @@ title: Trang chủ
 
 # Chào mừng đến với blog của mình! 👋
 
-Xin chào! Đây là blog cá nhân của **Minh** được tạo bằng **GitHub Pages + Jekyll**.
+Xin chào! Đây là blog cá nhân của **Hùng** được tạo bằng **GitHub Pages + Jekyll**.
 
 ## 🚀 Giới thiệu
 

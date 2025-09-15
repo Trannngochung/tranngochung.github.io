@@ -3,7 +3,7 @@ layout: default
 title: Giới thiệu
 ---
 
-# 👋 Xin chào, mình là Minh!
+# 👋 Xin chào, mình là Hùng!
 
 ## 🎯 Giới thiệu
 

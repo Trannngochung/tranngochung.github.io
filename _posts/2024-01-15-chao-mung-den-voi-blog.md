@@ -2,7 +2,7 @@
 layout: post
 title: "Chào mừng đến với blog!"
 date: 2024-01-15 10:00:00 +0700
-author: "Minh"
+author: "Hùng"
 categories: ["Giới thiệu"]
 tags: ["blog", "chào mừng", "jekyll"]
 ---

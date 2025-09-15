@@ -2,7 +2,7 @@
 layout: post
 title: "Học Jekyll và GitHub Pages - Tạo blog miễn phí"
 date: 2024-01-20 14:30:00 +0700
-author: "Minh"
+author: "Hùng"
 categories: ["Tutorial"]
 tags: ["jekyll", "github-pages", "blog", "tutorial"]
 ---
