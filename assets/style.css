@@ -35,8 +35,8 @@ header p {
     font-size: 1.2rem;
 }
 
-/* Section */
-section {
+/* Main content */
+main {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
@@ -45,9 +45,27 @@ section {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
-section h2 {
+main h2 {
     color: #4a90e2;
     margin-bottom: 15px;
+}
+
+main h1 {
+    color: #4a90e2;
+    margin-bottom: 20px;
+}
+
+main p {
+    margin-bottom: 15px;
+}
+
+main ul {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+main li {
+    margin-bottom: 5px;
 }
 
 /* Links */
